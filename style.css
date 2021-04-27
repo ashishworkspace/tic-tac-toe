@@ -1,0 +1,43 @@
+body{
+    font-weight: bolder;
+    background-color: rgb(31, 27, 27);
+    font-family: 'Courier New', Courier, monospace;
+}
+td{
+    width: 100px;
+    height: 100px;
+    font-size: 80px;
+    color: rgb(20, 21, 22);
+    text-align: center;
+    border: 5px solid rgb(31, 27, 29);
+}
+
+
+table{
+    background-color: rgb(75, 112, 75);
+    border: 10px solid rgb(68, 68, 68);
+    border-radius: 5px;
+}
+
+button{
+    
+    margin-top: 20px;
+    margin-left: 100px;
+    padding: 10px 40px;
+    margin-bottom: 40px;
+    background-color: rgb(155, 18, 0);
+    color: blanchedalmond;
+    border-radius: 50px;
+    font-size: x-large;
+}
+h1{
+    margin-left: 70px;
+    color: rgba(0, 189, 223, 0.815);
+}
+h2, li{margin: 10px;
+    font-size: 1.5em;
+    color: rgb(202, 202, 202);
+}
+h2{
+    margin-top: 40px;
+}
